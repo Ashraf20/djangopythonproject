@@ -8,3 +8,5 @@ cd djangopythonproject
 git status
 git add filename
 git add . dot sy sb file add hojygi
+git commit -m "1 file add ki ha or readme ma work kiya ha"
+git push origin main
