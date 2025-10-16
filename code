@@ -10,3 +10,19 @@ git add filename
 git add . dot sy sb file add hojygi
 git commit -m "1 file add ki ha or readme ma work kiya ha"
 git push origin main
+git init
+git remote add origin https://github.com/Ashraf20/newrepo.git
+git push -u origin main (is sy sir git push likhna sy push hojata hn)
+git branch -m newname
+
+
+new brach create
+ git checkout -b ashraf
+ git branch (is sy branch check hoga )
+ git checkout -b ashraf (is sy ak branch sy dosry brach ma jaskty hn)
+ git branch -d branchname (isy delete hota ha )
+ jo changing krygy wo soi branch ma hoga dosry ma nhi hoga
+
+git diff 
+
+git merge branch name
