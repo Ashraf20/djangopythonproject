@@ -26,3 +26,19 @@ new brach create
 git diff 
 
 git merge branch name
+git merge ashraf
+
+
+for add rest
+git reset
+git reset file name
+
+for commit reset
+ 
+git reset head~1
+
+aoni marzi sy pychy jana ho to
+
+git reset (jo hash number ho wo)
+
+
